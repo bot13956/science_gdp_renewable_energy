@@ -10,7 +10,7 @@ world_bank.csv: csv file containing countries' GDP from 1960 to 2015 from World 
 scimagojr-3.xlsx: Sciamgo Journal and Country Rank data for Energy Engineering and Power Technology which ranks 
 countries based on their journal contributions in the aforementioned area. 
 
-gdp_renewableenergy_science_output.py: python code to import all three data sets, clean the data, perform analysis, 
+analysis.py: python code to import all three data sets, clean the data, perform analysis, 
 and combine them based on following features:  ['Rank', 'Documents', 'Citable documents', 'Citations', 
 'Self-citations', 'Citations per document', 'H index', 'Energy Supply', 'Energy Supply per Capita', 
 '% Renewable', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015']
