@@ -1,6 +1,6 @@
 # science_gdp_renewable_energy
 
-This code ranks countries by science output and correlates that to GDA and total energy supply per capita.
+This code ranks countries by science output and correlates that to GDP and total energy supply per capita.
 
 Energy Indicators.xls: is a list of indicators of energy supply and renewable electricity production from 
 the United Nations for the year 2013.
